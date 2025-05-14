@@ -1,0 +1,14 @@
+rosrun extrinsic_calibration store_markers_wrt_base_link
+rosrun extrinsic_calibration store_points_wrt_kinect
+rosrun extrinsic_calibration convert_point_from_base_link_to_wrist2_link
+rosrun extrinsic_calibration convert_point_from_depth_optical_frame_to_camera_link
+rosrun extrinsic_calibration calculation_of_R_and_T
+
+******** UPDATE URDF FILE (KINECT POSE) *************
+
+******** For validation ***********
+
+rosrun extrinsic_calibration error_calculation
+rosrun extrinsic_calibration visualize_marker_from_kinect
+rosrun extrinsic_calibration visualize_marker_from_robot
+rosrun extrinsic_calibration test_transformation
