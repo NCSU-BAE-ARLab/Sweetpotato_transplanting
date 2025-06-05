@@ -1,4 +1,4 @@
-# Robotic Singulation and Grasping of Sweetpotato Seedlings for Autonomous Transplanting 
+# Robotic Singulation and Grasping of Plant Seedlings for Autonomous Transplanting 
 
 In the heart of agriculture, one persistent challenge continues to trouble modern farms — the shortage of labor. Among the many tasks in need of attention, one stands out for its delicacy and dexterity: transplanting vegetatively propagated crops such as sweetpotato which are grown using plant cuttings (i.e. slips). These are not seeds or large tubers, but slender, fragile cuttings that must be carefully separated, oriented, and planted — a process that has stubbornly remained manual due to its complexity.
 But what if robots could lend a hand?
