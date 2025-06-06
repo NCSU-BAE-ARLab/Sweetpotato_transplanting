@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/NCSU-BAE-ARLab/Sweetpotato_transplanting/blob/main/assets/data_generation.png" width="80%" />
+</p>
+
+
 ### Dataset generation
 ```bash
 python synthesize.py
