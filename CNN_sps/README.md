@@ -48,15 +48,15 @@ https://github.com/NCSU-BAE-ARLab/Sweetpotato_transplanting/tree/main/validation
     <th>Overlap</th>
   </tr>
   <tr>
-    <td><img src="path/to/image1.jpg" width="200"/></td>
-    <td><img src="path/to/image2.jpg" width="200"/></td>
-    <td><img src="path/to/image3.jpg" width="200"/></td>
-    <td><img src="path/to/image4.jpg" width="200"/></td>
+    <td><img src="qualitative_images/img1.png" width="200"/></td>
+    <td><img src="qualitative_images/img2.png" width="200"/></td>
+    <td><img src="qualitative_images/img3.png" width="200"/></td>
+    <td><img src="qualitative_images/img4.png" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="path/to/image5.jpg" width="200"/></td>
-    <td><img src="path/to/image6.jpg" width="200"/></td>
-    <td><img src="path/to/image7.jpg" width="200"/></td>
-    <td><img src="path/to/image8.jpg" width="200"/></td>
+    <td><img src="qualitative_images/img5.png" width="200"/></td>
+    <td><img src="qualitative_images/img6.png" width="200"/></td>
+    <td><img src="qualitative_images/img7.png" width="200"/></td>
+    <td><img src="qualitative_images/img8.png" width="200"/></td>
   </tr>
 </table>
