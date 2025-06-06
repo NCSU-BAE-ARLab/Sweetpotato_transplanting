@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/NCSU-BAE-ARLab/Sweetpotato_transplanting/blob/main/assets/calibration.png" width="80%" />
+</p>
+
 ### Install
 Just copy this entire folder in the src folder of your ROS workspace and recompile it.
 
