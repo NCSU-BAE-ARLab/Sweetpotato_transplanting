@@ -15,3 +15,6 @@ The future work would be to address the challenges faced in heavily cluttered or
 <p align="center">
   <img src="https://github.com/NCSU-BAE-ARLab/Sweetpotato_transplanting/blob/main/assets/grasping_framework.png" />
 </p>
+
+### Contact
+For any questions, please mail to [Lirong Xiang](mailto:lxiang3@ncsu.edu) or [Prem Raj](premr441@gmail.com)
