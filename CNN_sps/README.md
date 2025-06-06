@@ -13,3 +13,13 @@ torchvision 0.15.2a0
 ```bash
 python train_fast.py
 ```
+
+### Evaluation
+To evaluate the model with a particular trained weights
+'''bash
+python validate.py
+'''
+To evaluate the model with trained weights in all epoches
+'''bash
+python validate_all.py
+'''
