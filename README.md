@@ -33,3 +33,5 @@ The code is divided into subfolders as below. Please navigate to each folder for
 * extrinsic_calibration: Hand-eye calibration code to localize your camera in the robot base frame.
 * robotic_action_src: The main code to operate the robot with our proposed framework using ROS.
 
+### Acknowledgement
+The authors would like to thank Dr. Mike Boyette for his valuable suggestions and guidance in system design, and Dr. Christie Almeyda for generously providing the sweetpotato slips used in this study. We also thank the North Carolina Sweetpotato Commission for providing financial support to this project.
