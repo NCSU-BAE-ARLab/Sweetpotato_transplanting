@@ -8,6 +8,8 @@ python 3.8.10
 pytorch 2.0.0+nv23.05
 torchvision 0.15.2a0
 ```
+Before running any file, please set the appropiate path to the dataset and result folders.
+
 ### Train
 
 ```bash
@@ -22,4 +24,14 @@ python validate.py
 To evaluate the model with trained weights in all epoches
 ```bash
 python validate_all.py
+```
+### Inference over a single image
+```bash
+python single_image_prediction.py
+```
+
+### Validation dataset
+Included with this repository.
+```bash
+https://github.com/NCSU-BAE-ARLab/Sweetpotato_transplanting/tree/main/validation_data
 ```
