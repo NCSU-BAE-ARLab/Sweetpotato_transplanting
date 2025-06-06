@@ -16,10 +16,10 @@ python train_fast.py
 
 ### Evaluation
 To evaluate the model with a particular trained weights
-'''bash
+```bash
 python validate.py
-'''
+```
 To evaluate the model with trained weights in all epoches
-'''bash
+```bash
 python validate_all.py
-'''
+```
