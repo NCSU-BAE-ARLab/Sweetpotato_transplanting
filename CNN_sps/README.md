@@ -35,3 +35,28 @@ Included with this repository.
 ```bash
 https://github.com/NCSU-BAE-ARLab/Sweetpotato_transplanting/tree/main/validation_data
 ```
+### Qualitative results
+<table>
+  <tr>
+    <th colspan="2">Without Leaf</th>
+    <th colspan="2">With Leaf</th>
+  </tr>
+  <tr>
+    <th>No Overlap</th>
+    <th>Overlap</th>
+    <th>No Overlap</th>
+    <th>Overlap</th>
+  </tr>
+  <tr>
+    <td><img src="path/to/image1.jpg" width="200"/></td>
+    <td><img src="path/to/image2.jpg" width="200"/></td>
+    <td><img src="path/to/image3.jpg" width="200"/></td>
+    <td><img src="path/to/image4.jpg" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="path/to/image5.jpg" width="200"/></td>
+    <td><img src="path/to/image6.jpg" width="200"/></td>
+    <td><img src="path/to/image7.jpg" width="200"/></td>
+    <td><img src="path/to/image8.jpg" width="200"/></td>
+  </tr>
+</table>
