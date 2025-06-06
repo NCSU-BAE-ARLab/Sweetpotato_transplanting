@@ -8,7 +8,7 @@ We tested this robotic framework in real-world experiments, and the results were
 The future work would be to address the challenges faced in heavily cluttered or highly overlapping scenarios, where it occasionally performs multi-picks or selects the wrong transplanting direction.
 
 <p align="center">
-  <img src="https://github.com/NCSU-BAE-ARLab/Sweetpotato_transplanting/blob/main/assets/grasping_framework.png width="80%" />
+  <img src="https://github.com/NCSU-BAE-ARLab/Sweetpotato_transplanting/blob/main/assets/grasping_framework.png" width="80%" />
 </p>
 
 ### Demo videos
