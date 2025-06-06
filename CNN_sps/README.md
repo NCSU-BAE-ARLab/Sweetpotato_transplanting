@@ -8,3 +8,8 @@ python 3.8.10
 pytorch 2.0.0+nv23.05
 torchvision 0.15.2a0
 ```
+### Train
+
+```bash
+python train_fast.py
+```
