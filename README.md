@@ -18,3 +18,13 @@ The future work would be to address the challenges faced in heavily cluttered or
 
 ### Contact
 For any questions, please mail to [Lirong Xiang](mailto:lxiang3@ncsu.edu) or [Prem Raj](premr441@gmail.com)
+Or you can raise an issue to this repository.
+
+### Instruction to use this code
+
+The code is divided into subfolders as below. Please navigate to each folder for individual instructions to use it.
+* CNN_sps : This folder contain the code of our deep learning module. Please use it to train, test or interface the model with your robotic application via ROS.
+* data_generation: The code for generating photo-realistic synthetic data to train your deep learning model.
+* extrinsic_calibration: Hand-eye calibration code to localize your camera in the robot base frame.
+* robotic_action_src: The main code to operate the robot with our proposed framework using ROS.
+
