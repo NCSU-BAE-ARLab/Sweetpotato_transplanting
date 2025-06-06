@@ -1,4 +1,9 @@
+
 # Guides and steps to perform the robotic experiments for this project
+
+<p align="center">
+  <img src="https://github.com/NCSU-BAE-ARLab/Sweetpotato_transplanting/blob/main/assets/robot_action.png" width="80%" />
+</p>
 
 # Launch the robot ROS drivers
 ```bash
