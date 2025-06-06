@@ -7,10 +7,14 @@ At the core of our system is a 6-degree-of-freedom robotic arm, equipped with a 
 We tested this robotic framework in real-world experiments, and the results were promising. With over 80% success rate, our robot was able to automatically sort and transplant sweetpotato slips.
 The future work would be to address the challenges faced in heavily cluttered or highly overlapping scenarios, where it occasionally performs multi-picks or selects the wrong transplanting direction.
 
+### Some of the demo video
+
 <p align="center">
   <img src="https://github.com/NCSU-BAE-ARLab/Sweetpotato_transplanting/blob/main/assets/Github1.gif" width="49%" />
   <img src="https://github.com/NCSU-BAE-ARLab/Sweetpotato_transplanting/blob/main/assets/github_vrop2.gif" width="49%" />
 </p>
+
+### The overall pipeline depiction
 
 <p align="center">
   <img src="https://github.com/NCSU-BAE-ARLab/Sweetpotato_transplanting/blob/main/assets/grasping_framework.png" />
