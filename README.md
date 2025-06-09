@@ -1,4 +1,7 @@
 # Robotic Singulation and Grasping of Plant Seedlings for Autonomous Transplanting 
+<p align="center">
+  Prem Raj , Weilong He , Alex Brown , Yuxi Chen, Lirong Xiang
+</p>
 
 In the heart of agriculture, one persistent challenge continues to trouble modern farms — the shortage of labor. Among the many tasks in need of attention, one stands out for its delicacy and dexterity: transplanting vegetatively propagated crops such as sweetpotato which are grown using plant cuttings (i.e. slips). These are not seeds or large tubers, but slender, fragile cuttings that must be carefully separated, oriented, and planted — a process that has stubbornly remained manual due to its complexity.
 But what if robots could lend a hand?
@@ -7,9 +10,7 @@ At the core of our system is a 6-degree-of-freedom robotic arm, equipped with a 
 We tested this robotic framework in real-world experiments, and the results were promising. With over 80% success rate, our robot was able to automatically sort and transplant sweetpotato slips.
 The future work would be to address the challenges faced in heavily cluttered or highly overlapping scenarios, where it occasionally performs multi-picks or selects the wrong transplanting direction.
 
-<p align="center">
-  Prem Raj , Weilong He , Alex Brown , Yuxi Chen, Lirong Xiang
-</p>
+
 <p align="center">
   <img src="https://github.com/NCSU-BAE-ARLab/Sweetpotato_transplanting/blob/main/assets/grasping_framework.png" width="80%" />
 </p>
